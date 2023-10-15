@@ -1,5 +1,10 @@
 img {width:3cm;height:3cm;}
 table {width:80%;margin:auto;}
+body {background-color: #D7CFBA;}
+table tr {
+	color: #fff;
+	background-color: #000;
+}
 th#price {cursor:pointer;}
 li {color:blue;}
 /*si chequea muestra los productos sin cheque desaparecen los productos*/
